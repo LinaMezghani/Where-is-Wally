@@ -1,17 +1,14 @@
-		—— INSTRUCTIONS D’EXÉCUTION ——
+		—— INSTRUCTIONS TO RUN OUR PROJECT ——
 
-- Le code pour notre méthode principale se trouve dans le dossier code/Projet_Charlie.
+- Code for the main file is located in code/Projet_Charlie.
 
-- Une fois compilé, il suffit d’exécuter le main.cpp.
+- Once the project is built, just execute main.cpp.
 
-- L’image source se modifie par le champ source_file. Il y a 11 fichiers tests nommés test_1.jpg jusqu’à test_11.jpg dans le dossier Test_Images
+- The initial image is modified by "source_file". There are 11 test files named test_1.jpg, ... , test_11.jpg in the repository Test_Images.
 
-- Le booléen red_filter permet d’appliquer un traitement supprimant certains faux positifs. Pour activer cette fonctionnalité, il doit valoir true.
+- Boolean red_filter can eliminate some false positive. 
 
-
-
-
-- Les codes pour la méthode naive et la detection des cercles se trouvent dans le dossier Autres Codes.
+- Codes for the naive method and circle detection is in the repository "Autres Codes".
 
 
 
