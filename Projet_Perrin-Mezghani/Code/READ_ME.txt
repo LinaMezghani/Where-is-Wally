@@ -13,7 +13,5 @@
 
 - Les codes pour la méthode naive et la detection des cercles se trouvent dans le dossier Autres Codes.
 
-- L’ensemble des résultats (avec et sans red_filter) se trouve dans le dossier Test_Results.zip envoyé via We Transfer.
-
 
 
