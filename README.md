@@ -1,16 +1,9 @@
 # Where-is-Wally
 
-		—— INSTRUCTIONS D’EXÉCUTION ——
+- Computed with C++ and openCV library
 
-- Le code pour notre méthode principale se trouve dans le dossier code/Projet_Charlie.
+- Most of the documents are in french
 
-- Une fois compilé, il suffit d’exécuter le main.cpp.
+- Execution instructions are in the "instructions_execution.txt" folder.
 
-- L’image source se modifie par le champ source_file. Il y a 11 fichiers tests nommés test_1.jpg jusqu’à test_11.jpg dans le dossier Test_Images
-
-- Le booléen red_filter permet d’appliquer un traitement supprimant certains faux positifs. Pour activer cette fonctionnalité, il doit valoir true.
-
-
-
-
-- Les codes pour la méthode naive et la detection des cercles se trouvent dans le dossier Autres Codes.
+Project realised at Ecole Polytechnique
